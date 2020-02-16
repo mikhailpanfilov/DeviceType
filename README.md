@@ -15,7 +15,7 @@
 
 
 **DeviceType** is one of the solutions to meet the design requirements depending on different screen types. 
-It's a simple `Struct` of device types depending on the `ScreenSize`. Please, check [Medium](https://medium.com/@mikhailpanfilov) post with a full description👏
+It's a simple `Struct` of device types depending on the `ScreenSize`. Please, check [Medium](https://medium.com/@mikhailpanfilov/devicetype-deviceconstraint-swift-5-f5a01e97bc36) post with a full description👏
 
 
 ### 📝 Contents
